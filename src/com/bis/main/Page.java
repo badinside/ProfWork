@@ -7,7 +7,7 @@ public class Page {
 	private String Html;
 	private String Url;
 	private String Body;
-	private TreeMap Headers;
+	private TreeMap<String, String> Headers;
 	
 
 }
