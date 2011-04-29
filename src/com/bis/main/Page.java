@@ -8,6 +8,6 @@ public class Page {
 	private String Url;
 	private String Body;
 	private TreeMap Headers;
-	private String ServerResponse;
+	
 
 }
